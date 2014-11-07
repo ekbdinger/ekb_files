@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ekb_files feature.
+ */
+
+include_once 'ekb_files.features.inc';
